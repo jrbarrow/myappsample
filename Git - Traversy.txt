@@ -1,0 +1,3 @@
+Git MINGW64 projects for Traversy YouTube Git video
+
+D:\Users\Jim\Documents\personal\NMSU\Fall 2019\ICT463\Git\Youtube
